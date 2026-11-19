@@ -1,0 +1,17 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "2GP Package",
+      "versionDescription": "Testing 2GP package"
+    }
+  ],
+  "name": "AgentForce",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "66.0"
+  
+}
